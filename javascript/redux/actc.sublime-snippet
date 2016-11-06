@@ -1,0 +1,15 @@
+<snippet>
+	<content>
+	<![CDATA[
+function ${1:setSometing}(${2:val}) {
+	return {
+		type: args,
+		${2/,/,\n   /g}
+	}
+}
+	]]>
+	</content>
+	<tabTrigger>actc</tabTrigger>
+	<scope>source.js</scope>
+	<description>action creator</description>
+</snippet>

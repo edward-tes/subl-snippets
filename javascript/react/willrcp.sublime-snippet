@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+	<![CDATA[
+componentWillReceiveProps(nextProps) {
+	${VISUAL}$0
+}
+	]]>
+	</content>
+	<tabTrigger>willrcp</tabTrigger>
+	<scope>source.js</scope>
+	<description>componentWillReceiveProps</description>
+</snippet>

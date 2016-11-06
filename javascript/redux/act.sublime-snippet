@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+	<![CDATA[
+const ${1:ACTION_KEY} = "$1"
+	]]>
+	</content>
+	<tabTrigger>act</tabTrigger>
+	<scope>source.js</scope>
+	<description>action definition</description>
+</snippet>

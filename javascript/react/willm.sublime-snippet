@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+	<![CDATA[
+componentWillMount() {
+	${VISUAL}$0
+}
+	]]>
+	</content>
+	<tabTrigger>willm</tabTrigger>
+	<scope>source.js</scope>
+	<description>componentWillMount</description>
+</snippet>

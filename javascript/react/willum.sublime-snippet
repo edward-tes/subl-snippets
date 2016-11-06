@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+	<![CDATA[
+componentWillUnMount() {
+	${VISUAL}$0
+}
+	]]>
+	</content>
+	<tabTrigger>willum</tabTrigger>
+	<scope>source.js</scope>
+	<description>componentWillUnMount</description>
+</snippet>
